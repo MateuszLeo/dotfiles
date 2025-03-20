@@ -1,0 +1,8 @@
+[user]
+        name = Mateusz Leo
+        email = leo.mateusz@gmail.com
+[core]
+        editor = nvim
+
+[fetch]
+	prune = true
