@@ -1,10 +1,10 @@
+-- return { "", priority = 1000 , config = true, opts = ...}
+
 return {
-	"craftzdog/solarized-osaka.nvim",
-	lazy = false,
+	"ellisonleao/gruvbox.nvim",
 	priority = 1000,
+	config = true,
 	opts = function()
-		return {
-			transparent = true,
-		}
+		return {}
 	end,
 }
